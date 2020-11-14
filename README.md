@@ -6,6 +6,6 @@ This analysis is to determine whether an ice cream shop in Oahu is a viable, yea
 
 ## Results
 
-['june_temps'](Resources/june_temps_df.png)     ['dec temps'](Resources/dec_temps_df.png)
+[!june_temps](Resources/june_temps_df.png)     [!dec temps](Resources/dec_temps_df.png)
 
 ## Summary
